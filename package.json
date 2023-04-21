@@ -1,10 +1,10 @@
 {
-  "name": "copilg",
+  "name": "copilg-theme",
   "publisher": "AmyangXYZ",
-  "repository": "https://github.com/AmyangXYZ/Copilg",
-  "displayName": "Copilg",
-  "description": "inspired by the copilot theme and github dark theme",
-  "version": "0.0.4",
+  "repository": "https://github.com/AmyangXYZ/copilg-theme",
+  "displayName": "Copilg Theme",
+  "description": "Inspired by the copilot theme and github dark theme",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.77.0"
   },
