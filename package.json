@@ -1,0 +1,23 @@
+{
+  "name": "copilg",
+  "publisher": "AmyangXYZ",
+  "repository": "https://github.com/AmyangXYZ/Copilg",
+  "displayName": "Copilg",
+  "description": "inspired by the copilot theme and github dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Copilg",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Copilg-color-theme.json"
+      }
+    ]
+  }
+}
