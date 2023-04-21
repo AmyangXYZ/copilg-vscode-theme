@@ -4,7 +4,7 @@
   "repository": "https://github.com/AmyangXYZ/copilg-vscode-theme",
   "displayName": "Copilg Theme",
   "description": "Inspired by the copilot theme and github dark theme",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.77.0"
   },
